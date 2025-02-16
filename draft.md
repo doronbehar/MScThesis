@@ -1,3 +1,4 @@
+
 # Abstract
 The weak force in the standard model is considered to be responsible for energy shifts in energy levels and can be isolated when comparing the spectrum of left and right handed chiral molecules. Our group’s goal is to measure this shift, which has never been measured directly with spectroscopic methods.
 Standard model numerical calculations predict this weak force shift, also referred to as parity violation (PV) shift to be $\Delta_{PV} = 1.8Hz$ at best, in the C-H wag vibration of CHDBrI+ <!-- Cite-->, while the vibration itself is at the (IR) frequency of $\nu_v = 33 (\sim 9 \mu m)$! This C-H wag vibrational frequency of our candidate enantiomers, as well as for other molecules we considered, is roughly $23\pm 4 \,\mathrm{cm^{-1}}$ times higher then the lowest frequency vibration, with 7 additional vibrational frequencies in between (9 altogether). This implies that the lifetime of the excited C-H wag state of any of our most promising candidate molecules will be limited by intra-molecular vibration redistribution (IVR). An estimate of the extent of this limitation was calculated numerically and it's results are described in detail in this thesis. In <!-- cite https://doi.org/10.1063/5.0163641--> you can find a brief summary of the results.
@@ -42,11 +43,11 @@ Cooling, stabilizing time, rf divisor
 ## CHDBrI+ Concentration & Total #Ions Dependence
 # Appendix: Simulation Software Manual & Technical Details
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODMzOTg4MywxNTkyODYwNTY1LC0yMD
-c0MzM3MjI3LC0xMTk5MzQ1NDg4LDE5MTA3NTA2MjYsLTEwMTI2
-OTg4OTgsLTE3ODcyNzY2OTUsLTE5NDg4NDg5NywxMDIxMzg5MT
-IxLC0xMTc4NDkwMTk2LC05Njc0MzU2ODEsLTE1OTgyMjMsMTE3
-NzY4MTc4LC00NDYzMTU1NjcsMTEzNjg5NzkyNywyNDg4MzUyMj
-ksLTU1MDMyNTQxMywtMTEyNjMzOTk5NCwxMDA1Nzg2Nzc4LC0x
-MzQ3MTA3MDU3XX0=
+eyJoaXN0b3J5IjpbMTM4NzI4OTAyMSwxMzY4MzM5ODgzLDE1OT
+I4NjA1NjUsLTIwNzQzMzcyMjcsLTExOTkzNDU0ODgsMTkxMDc1
+MDYyNiwtMTAxMjY5ODg5OCwtMTc4NzI3NjY5NSwtMTk0ODg0OD
+k3LDEwMjEzODkxMjEsLTExNzg0OTAxOTYsLTk2NzQzNTY4MSwt
+MTU5ODIyMywxMTc3NjgxNzgsLTQ0NjMxNTU2NywxMTM2ODk3OT
+I3LDI0ODgzNTIyOSwtNTUwMzI1NDEzLC0xMTI2MzM5OTk0LDEw
+MDU3ODY3NzhdfQ==
 -->
